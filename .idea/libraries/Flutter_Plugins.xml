@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.0+1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.0.14" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.8" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.5" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.3" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.2+1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-6.0.1" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-1.4.5" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.12.10+2" />
+      <root url="file://C:/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.7+3" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

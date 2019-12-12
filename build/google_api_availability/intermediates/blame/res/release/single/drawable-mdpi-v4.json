@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_disabled_color_18.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\googleg_disabled_color_18.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\343de24493186523c0bc35d679f13d6c\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\343de24493186523c0bc35d679f13d6c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_dark_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\343de24493186523c0bc35d679f13d6c\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\googleg_standard_color_18.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\googleg_standard_color_18.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\common_google_signin_btn_icon_light_normal_background.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\343de24493186523c0bc35d679f13d6c\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\core-1.0.0.aar\\343de24493186523c0bc35d679f13d6c\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\socialapp\\build\\google_api_availability\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png",
+        "source": "C:\\Users\\Rahul\\.gradle\\caches\\transforms-1\\files-1.1\\jetified-play-services-base-16.0.1.aar\\2fb500b317a39fcdd6ca55147cd2bef3\\res\\drawable-mdpi-v4\\common_google_signin_btn_text_light_normal_background.9.png"
+    }
+]
